@@ -1,5 +1,5 @@
 
 for(int i=0;i<10;i++)
 {
- 	cout<<"Ciao"<<i;
+ 	cout<<"Ciao Mondo "<<i;
 }
